@@ -1,0 +1,13 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+gowalker
+
+# Folders
+_obj
+_test
+bin
+pkg
+conf
+views
