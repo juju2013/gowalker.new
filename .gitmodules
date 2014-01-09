@@ -1,0 +1,3 @@
+[submodule "src"]
+	path = src
+	url = https://github.com/juju2013/gowalker.git
